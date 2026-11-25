@@ -36,3 +36,7 @@ I am trilingual: French and Spanish are my native languages, and English is my w
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/sofian-amazigh-chairi-42202b418/)
+
+---
+
+*This README was written with the help of Claude (Anthropic).*
