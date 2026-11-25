@@ -1,16 +1,29 @@
-## Hi there 👋
+# Sofian Amazigh Chairi · QA Tester
 
-<!--
-**eujuicer/eujuicer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Career changer from logistics and inventory management, now training as a software tester (Bruxelles Formation / Cefora, Jul 2026 – Jan 2027). I write automated tests for APIs and web UIs and run them in CI. I am preparing the ISTQB CTFL v4.0 exam and hold the Scrum.org PSM I certification.
 
-Here are some ideas to get you started:
+Based in Brussels. Looking for a QA tester internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- **API testing**: PyTest, Python `requests`, Bruno, JSON Schema contracts
+- **UI testing**: Playwright (Python and TypeScript), Selenium with Page Object Model
+- **Test management**: Squash TM, manual test plans, test cases and bug reports
+- **CI and quality**: GitHub Actions, SonarQube Cloud, Ruff, pre-commit, Conventional Commits
+- **Data and tools**: SQL, Git, Docker, browser DevTools
+
+## Featured project
+
+**[EventFlow-QA](https://github.com/eujuicer/eventflow-cours-pipeline)** · test project for a ticketing web app (API, UI, security, load), run in a GitHub Actions pipeline with a SonarQube Cloud analysis. Release [v1.0.0](https://github.com/eujuicer/eventflow-cours-pipeline/releases/tag/v1.0.0). Built on the reference application of my training: the README lists what is mine and what is not.
+
+## Other projects
+
+- [jsTester](https://github.com/eujuicer/jsTester): end-to-end tests with Playwright and TypeScript on Chromium, Firefox and WebKit, run in GitHub Actions
+- [parasoft-parabank-qa-testing](https://github.com/eujuicer/parasoft-parabank-qa-testing): test plan, manual test cases and bug reports on a demo banking app (final project, in progress)
+- [bruno-dummyjson-api-chaining](https://github.com/eujuicer/bruno-dummyjson-api-chaining): chained API requests with Bruno (login, profile, cart, products)
+- [python-requests-eventflow-api](https://github.com/eujuicer/python-requests-eventflow-api): consuming a REST API with Python `requests`
+- [squash-tm-eventflow-testing](https://github.com/eujuicer/squash-tm-eventflow-testing): test management and execution tracking with Squash TM
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/sofian-amazigh-chairi-42202b418/)
