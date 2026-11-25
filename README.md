@@ -4,6 +4,8 @@ Career changer from logistics and inventory management, now training as a softwa
 
 Based in Brussels. Looking for a QA tester internship.
 
+I am trilingual: French and Spanish are my native languages, and English is my working language.
+
 ## What I work with
 
 - **API testing**: PyTest, Python `requests`, Bruno, JSON Schema contracts
@@ -23,6 +25,12 @@ Based in Brussels. Looking for a QA tester internship.
 - [bruno-dummyjson-api-chaining](https://github.com/eujuicer/bruno-dummyjson-api-chaining): chained API requests with Bruno (login, profile, cart, products)
 - [python-requests-eventflow-api](https://github.com/eujuicer/python-requests-eventflow-api): consuming a REST API with Python `requests`
 - [squash-tm-eventflow-testing](https://github.com/eujuicer/squash-tm-eventflow-testing): test management and execution tracking with Squash TM
+
+## Languages
+
+- **French**: native
+- **Spanish**: native
+- **English**: professional
 
 ## Contact
 
